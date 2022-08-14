@@ -11,15 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af966acb-8f43-42e7-9d97-6a2c298141b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01_singleton/singleton_hungry.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_singleton/singleton_lazy.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_factory/021_simple_factory/simple_factiry.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_factory/022_factory/factory.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_factory/023_abstract/factory.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observer/observer.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/hungry.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/lazy.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
