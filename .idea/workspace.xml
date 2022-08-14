@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af966acb-8f43-42e7-9d97-6a2c298141b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/observer/observer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adapter/adapter.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
